@@ -26,6 +26,8 @@ What affects the pricing of Airbnb's in San Francisco and what trends do they fo
 Airbnb's in San Francisco that had a full-time availability had a greater average price than those that had a part-time availability. 
 
 In addition, shared rooms were shown to have the highest average price out of every room type with private rooms having the lowest average price. 
+
+However, shared rooms had at outlier which would explain why their average price was so high.
 ***
 # R
 To view the R portion of code please refer to `airbnb_r.pdf`
