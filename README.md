@@ -19,15 +19,14 @@ What affects the pricing of Airbnb's in San Francisco and what trends do they fo
 5. Created bar charts using the three pivot tables and compiled findings into a dashboard.
 
 ## Dashboard
-![image](https://github.com/echu-vb/airbnb_pricing_analysis/blob/34eaa6f4f960d81ecb775cf9dbf01411b3dc7be5/airbnb_dashboard.png)
+![image](https://raw.githubusercontent.com/echu-vb/airbnb_pricing_analysis/refs/heads/main/airbnb_dashboard2.png)
 (Slicers were included to show the effects of availability and room type on average price per neighborhood and can be viewed alongside all data used in `airbnb_pricing_sf.xlsx`)
 
 ## Conclusion
 Airbnb's in San Francisco that had a full-time availability had a greater average price than those that had a part-time availability. 
 
-In addition, shared rooms were shown to have the highest average price out of every room type with private rooms having the lowest average price. 
+Unsurprisingly, hotel rooms were shown to have the highest average price out of every room type with shared rooms having the lowest average price. 
 
-However, shared rooms had at outlier which would explain why their average price was so high.
 ***
 # R
 To view the R portion of code please refer to `airbnb_r.pdf`
